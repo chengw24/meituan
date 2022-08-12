@@ -17,7 +17,7 @@
             <div class="sjlogo">
               <img src="../../public/img/sjlogo.png" alt="">
             </div>
-            <div class="tx1">蜜雪冰城（礼村店）</div>
+            <div class="tx1">蜜雪冰城（礼村店） </div>
             <div class="tx2">
               <span><img class="star" src="../../public/icon-img/ysc.png" alt=""> 4.5</span>
               <span>配送 约30分钟</span>
